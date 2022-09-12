@@ -53,7 +53,9 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a> </p>
 
+<h3 align="left">LeetCode Stats:</h3>
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/yatinnagar?theme=dark&font=DM%20Mono&ext=heatmap)](https://leetcode.com/yatinnagar/)
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=yatinnagar&show_icons=true&locale=en" alt="yatinnagar" />
