@@ -17,8 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yatindra-nagar-592097192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://leetcode.com/vivek_yd_6/" height="30" width="40" /></a>
-<a href="https://leetcode.com/yatinnagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yatinnagar/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yatindra-nagar-592097192/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://leetcode.com/vivek_yd_6/" height="30" width="40" /></a>
+<a href="https://leetcode.com/yatinnagar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yatinnagar/" height="30" width="40" /></a>
+        <a href="https://auth.geeksforgeeks.org/user/yatinnagar871/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yatinnagar871/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
